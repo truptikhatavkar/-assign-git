@@ -1,4 +1,9 @@
 • What is a gitignore file and what should it include for a Java project?
+gitignore file describes files to ignore which are deliberately untracked.
+gitignore file for java includes *.class and package files: *.jar, *.war, *.ear 
+
 • What does fast-forward in Git mean?
+fast-forward means that a pull or rebase was able to update directly to the new revision without having to perform merges. It means only new commits will be pulled.
+
 • Why should you have different branches?
 • In a project how many remote Git repositories do you usually have?
