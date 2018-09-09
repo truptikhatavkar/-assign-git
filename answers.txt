@@ -9,5 +9,5 @@ fast-forward means that a pull or rebase was able to update directly to the new 
 Different branches can work on same file separately and then merge together after everything is right. So different people can work together.
 
 • In a project how many remote Git repositories do you usually have?
-We have a single remote repository which can have several branches.
+We can have several remote Git repositories in a project.
 
